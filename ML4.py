@@ -1,7 +1,7 @@
 '''
     Machine learning python project 1
-    Michal Keren 204783161
-    Itamar Eyal 302309539
+    Michal Keren 
+    Itamar Eyal 
     Libraries: numpy, matplotlib & sklearn.
     After running the file, 2 plots will show for sections 8,9.
     Results for section 10 will be printed to the console.
